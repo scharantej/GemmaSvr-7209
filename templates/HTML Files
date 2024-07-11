@@ -1,0 +1,32 @@
+
+<details>
+<summary>index.html</summary>
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>gemma cpp</title>
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+
+<body>
+<div class="container">
+<h1>gemma cpp</h1>
+<p>gemma cpp is a C++ library for efficient, scalable, and distributed numerical linear algebra.</p>
+<p>It provides a high-level API for solving linear systems, least squares problems, and eigenvalue problems.</p>
+<p>gemma cpp is designed to be easy to use and efficient, and it can be used to solve problems on a variety of platforms, including CPUs, GPUs, and distributed systems.</p>
+<p>To learn more about gemma cpp, please visit the following links:</p>
+<ul>
+<li><a href="https://github.com/google/gemma.cpp">GitHub</a></li>
+<li><a href="https://gemma.readthedocs.io/en/latest/">Documentation</a></li>
+</ul>
+</div>
+</body>
+
+</html>
+
+</details>
